@@ -1,0 +1,9 @@
+{
+  "gitCommitEmail": "zhangjianshe@gmail.com",
+  "gitCommitHash": "95863ad",
+  "gitCommitMessage": "init project",
+  "gitCommitTime": "2025-01-18 21:10:01 +0800",
+  "rustVersion": "rustc 1.83.0 (90b35a623 2024-11-26)",
+  "buildTime": "2025-01-19 07:57:03",
+  "buildOs": "linux"
+}

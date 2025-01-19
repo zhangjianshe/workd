@@ -3,7 +3,17 @@ name = "workerd"
 version = "0.1.0"
 edition = "2021"
 
+build = "build.rs"
+
 [dependencies]
 axum = "0.8.1"
 serde = {version="1.0.217",features=["serde_derive"]}
 tokio = { version = "1.43.0", features = ["full"] }
+serde_json = "1.0.135"
+chrono = "0.4.39"
+satway_build = "0.1.18"
+[build-dependencies]
+satway_build = { version = "0.1.13" }
+chrono = "0.4.39"
+
+
