@@ -1,12 +1,23 @@
-# worked 
-  hande for your work
-  
-# how to build
+
+![github build](https://github.com/zhangjianshe/satway-build-info/actions/workflows/build.yml/badge.svg)
+![github.com](https://img.shields.io/github/license/zhangjianshe/workerd)
+![Crates.io Total Downloads](https://img.shields.io/crates/d/workerd)
+[![Documentation](https://docs.rs/workerd/badge.svg)](https://docs.rs/crate/workerd/latest)
 
 
-# how to development
-```rust
-cargo install cargo-watch
-cargo watch -x "run"
+<div align="center">
+  <h1>workerd</h1>
+  <p>
+    <strong>personal assistant running on local machine</strong>
+  </p>
+</div>
+
+Current Version=0.1.0
+
+## usage
+
+```shell
+    workerd
 ```
-open link in your browser [Index Page](http://localhost:3000) 
+
+This crate (workerd) is an executable application. provide a [web ui](http://localhost:1234).help you to orgnize tasks,calendar,thoughts,diary...

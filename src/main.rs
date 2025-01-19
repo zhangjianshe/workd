@@ -14,7 +14,7 @@ let info=include_str!("context/info.txt");
         Ok(_) => println!("Compile info loaded successfully"),
         Err(e) => eprintln!("Failed to load compile info: {}", e),
     }
-    let listener = tokio::net::TcpListener::bind("127.0.0.1:3000")
+    let listener = tokio::net::TcpListener::bind("127.0.0.1:1234")
         .await
         .unwrap();
     println!(
