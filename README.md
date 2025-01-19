@@ -1,5 +1,5 @@
 
-![github build](https://github.com/zhangjianshe/satway-build-info/actions/workflows/build.yml/badge.svg)
+![github build](https://github.com/zhangjianshe/workerd/actions/workflows/build.yml/badge.svg)
 ![github.com](https://img.shields.io/github/license/zhangjianshe/workerd)
 ![Crates.io Total Downloads](https://img.shields.io/crates/d/workerd)
 [![Documentation](https://docs.rs/workerd/badge.svg)](https://docs.rs/crate/workerd/latest)
@@ -12,7 +12,7 @@
   </p>
 </div>
 
-Current Version=0.1.1
+Current Version=0.1.2
 
 ## usage
 
